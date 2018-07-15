@@ -8,7 +8,7 @@ django-bootstrap3==5.0.3
 django-datatables-view==1.9
 django-toolbelt==0.0.1
 docopt==0.6.2
-gunicorn==18.0
+gunicorn== 19.5
 nltk==2.0.4
 psycopg2==2.5.1
 py==1.4.20
